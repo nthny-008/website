@@ -1,0 +1,35 @@
+body {
+  font-family: "poppins";
+  background-color: black;
+  color: #222;
+}
+h1 {
+  font-style: italic;
+  color: red;
+  margin-left: 20px;
+}
+h3 {
+  margin-left: 20px;
+  color: white;
+}
+nav {
+  display: flex;
+  justify-content: right;
+  color: red;
+  margin: 30px;
+  gap: 20px;
+}
+nav h4 {
+  color: red;
+  text-decoration: none;
+  margin: 20px;
+}
+.anime-video {
+  position: absolute;
+  right: 100px;
+  top: 150px;
+}
+p {
+  justify-content: center;
+  color: azure;
+}
